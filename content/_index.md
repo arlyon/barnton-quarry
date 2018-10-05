@@ -8,5 +8,52 @@ War.
 
 Hoping to return it to its original R4 configuration, the team is
 busy delicately removing and restoring everything from ventilation
-to telephone switching stations. The project is primarily managed
-by volunteers.
+to telephone switching stations.
+
+## History
+
+RAF Barnton Quarry, 4 miles from the city centre of Edinburgh and buried
+deep under Corstorphine Hill, has a long association with the RAF which
+dates back to the formation of the 3603 Fighter Control Unit of the
+famous 603 (City of Edinburgh) Squadron during WWII. After WWII, the UK
+government identified Russia as a key threat to national security and
+the deep bunker at Barnton Quarry was built in 1952 as the response to
+that threat. Operating as the Sector Operations Centre for co-ordinating
+RAF fighter response to UK airspace intrusion, the staff at RAF Barnton
+Quarry protected Scotland from attack by Russian long-range nuclear
+bombers up until around 1960.
+
+The theme was very much command and control, with radar sites stretching
+from the very north of Scotland
+right down to Northumberland (including our other bunker/museum,
+Scotland’s Secret Bunker, RAF Troywood near Anstruther) reporting radar
+contacts to Barnton Quarry via dedicated telephone lines, where the
+information was triangulated and subsequently plotted on huge map tables
+for RAF fighter commanders to view and make decisions regarding the
+fighter response. The scale of the RAF operation here was astonishing;
+the central operations well is vast and exists over three floors deep
+underground. The bunker was specifically designed to withstand Russian
+attack. It's buried 100ft underground with walls of 10ft thick
+reinforced concrete, tank-metal blast doors, generators and a complex
+air conditioning and filtration system. The site is of great historical
+importance as it is the only surviving example of this type of bunker
+in the UK which retains the original RAF three-level operations room.
+
+Sadly, the bunker has been neglected for many years and has suffered
+theft and fire damage. We plan to restore it exactly as it was under the
+RAF in 1952 and open the site as a museum so that visitors can
+experience it first-hand for themselves. Our vision is to leverage
+interactive technology to create rotating exhibits, all relevant to the
+teaching of RAF and Cold War history. The space we have on the site is
+huge, hence we plan reserve a chunk of our display space to invite guest
+exhibitors to display with the objective of providing new and interesting
+display topics for returning visitors. Addiitonally, we’re planning to
+create dedicated permanent displays to preserve the history of 603
+squadron in the bunker which was home to the FCU!
+
+We've been working
+hard for the past six years to recover the site. We're making great
+progress, but there is still a long way to go! Volunteers are the
+lifeblood of what we're doing and we're very keen for volunteers to get
+involved in the project. Any help is appreciated! Continue below to see
+how to get involved.

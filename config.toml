@@ -13,5 +13,33 @@ sectionPagesMenu = "main"
     service_worker = false
     show_contact_in_head = false
     show_contact_in_footer = true
-    fontawesome_sets = ["brands"]
-    copyright = "no monkeys (or typewriters) were harmed in the making of this site"
+    fontawesome_sets = ["brands", "light"]
+    copyright = "copyright info"
+
+[[params.contact]]
+    icon_type = "fab"
+    icon_name = "facebook"
+    link = "https://www.facebook.com/BarntonQuarryRestorationProject"
+    text = "FB"
+
+[[params.contact]]
+    icon_type = "fal"
+    icon_name = "envelope"
+    link = "mailto:events@barntonquarry.org.uk"
+    text = "MAIL"
+
+[outputs]
+    home = [ "HTML", "RSS", "HEADERS" ]
+    page = [ "HTML" ]
+
+[mediaTypes]
+    [mediaTypes."text/netlify"]
+    suffixes = [""]
+    delimiter = ""
+
+[outputFormats]
+    [outputFormats.HEADERS]
+    mediatype = "text/netlify"
+    baseName = "_headers"
+    isPlainText = true
+    notAlternative = true
