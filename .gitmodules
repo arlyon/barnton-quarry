@@ -1,2 +1,3 @@
 [submodule "themes/bunker"]
+	path = themes/bunker
 	url = https://github.com/arlyon/CAPSLOCK.git
