@@ -1,3 +1,9 @@
+---
+title: "Front Page"
+date: 2018-10-06T20:39:04+01:00
+draft: false
+---
+
 The Barnton Quarry Restoration Project is a volunteer-led effort to
 restore Edinburgh's ROTOR R4 bunker to its original state, reversing
 the years of decay and vandalism that affected it in the years after
@@ -57,3 +63,37 @@ progress, but there is still a long way to go! Volunteers are the
 lifeblood of what we're doing and we're very keen for volunteers to get
 involved in the project. Any help is appreciated! Continue below to see
 how to get involved.
+
+{{< telegram >}}
+![image](/you.png)
+# Your Bunker needs You!
+
+Although we receive financial assistance from Scotland’s Secret Bunker
+this is only enough to buy some of the materials for the restoration.
+The only way we can hope to achieve our vision of a World Class Cold
+War museum in Edinburgh is through the hard work and dedication of
+our volunteers. Every weekend a small band of helpers give up their
+free time to clean, clear, build, floor, plaster and paint their way
+towards a finished bunker.
+
+As well as those keen to learn new skills, we welcome existing trades,
+although we can skim a wall, its nothing compared to what an
+experienced plasterer can achieve! So if you have a skill that
+you’re willing to bring to the Quarry, we’re all ears!
+Even if you think that your skill is too esoteric for our project - try
+us! We have miles of fence line to repair, brick walls to rebuild, an
+acre or two of land to tame, a carpark to tarmac,… you get the idea!
+We also realise that physical graft is not everyone’s cup of tea.
+There are plenty of other tasks to assist with such as web design,
+historical research and funding & sponsorship. If these pique your
+interest, let us know.
+
+# How Can my Business Help?
+
+As well as volunteering, we always need materials to complete the
+project. If you’re a merchant or a supplier and can help us out,
+or, if you wish to talk to us about sponsorship, we would be happy
+to talk to you about it.
+
+## [volunteer@barntonquarry.org.uk](volunteer@barntonquarry.org.uk)
+{{</telegram>}}
